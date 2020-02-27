@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CCC2020/Art/src"/>
+	<classpathentry kind="src" path="CCC2020/Cyclic Shifts/src"/>
+	<classpathentry kind="src" path="CCC2020/DogTreat/src"/>
+	<classpathentry kind="src" path="CCC2020/Epidemiology/src"/>
+	<classpathentry kind="src" path="CCC2020/Escape Room/src"/>
+	<classpathentry kind="src" path="Chapter 5/PAJan8Classes/src"/>
+	<classpathentry kind="src" path="ElevenLab/Activity1 Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity10  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity11  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity2  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity3  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity4  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity5  Starter Code/Buggy1"/>
+	<classpathentry kind="src" path="ElevenLab/Activity5  Starter Code/Buggy2"/>
+	<classpathentry kind="src" path="ElevenLab/Activity5  Starter Code/Buggy3"/>
+	<classpathentry kind="src" path="ElevenLab/Activity5  Starter Code/Buggy4"/>
+	<classpathentry kind="src" path="ElevenLab/Activity5  Starter Code/Buggy5"/>
+	<classpathentry kind="src" path="ElevenLab/Activity7  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity8  Starter Code"/>
+	<classpathentry kind="src" path="ElevenLab/Activity9  Starter Code"/>
+	<classpathentry kind="src" path="PixLab/src"/>
+	<classpathentry kind="src" path="Polyphormism PP3/src"/>
+	<classpathentry kind="lib" path="ElevenLab/Activity6  Starter Code/Elevens.jar"/>
+	<classpathentry kind="output" path="Chapter 5/PAJan8Classes/bin"/>
+</classpath>
